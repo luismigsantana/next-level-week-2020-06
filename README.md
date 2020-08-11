@@ -24,3 +24,16 @@ Seguindo o conceito de mobile first a plataforma web foi toda pensada na respons
 
 **Estudar**
 ![Estudar](./assets/teacher-items.png)
+
+## Rode na sua Máquina
+Clone o projeto e em seguida use os comandos:
+
+**Yarn**
+
+```bash
+yarn install
+```
+
+```bash
+yarn start
+```
