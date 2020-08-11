@@ -11,4 +11,16 @@ O projeto de estudo dessa semana foi a plataforma de estudos Online Proffy. A pl
 **[Veja a apresentação do projeto](https://github.com/luismigsantana/Proffy)**
 
 ## Responsividade 
+Seguindo o conceito de mobile first a plataforma web foi toda pensada na responsividade.
 
+**Plataforma Web em dispositivo Mobile**
+![Web responsivo](./assets/web-responsivo.png)
+
+**Home**
+![Home](./assets/landing.png)
+
+**Dar Aulas**
+![Dar Aulas](./assets/give-classes.png)
+
+**Estudar**
+![Estudar](./assets/teacher-items.png)
